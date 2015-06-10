@@ -1,0 +1,22 @@
+Szczecin
+Koszalin
+Rumia
+Gdańsk
+Olsztyn
+Białystok
+Bydgoszcz
+Toruń
+Zielona Góra
+Poznań
+Łódź
+Warszawa
+Lublin
+Kielce
+Wrocław
+Opole
+Katowice
+Zabrze
+Częstochowa
+Bielsko
+Kraków
+Rzeszów
