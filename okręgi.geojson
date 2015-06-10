@@ -253,6 +253,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.266667,
+          52.216667
+        ]
+      },
+      "properties": {
+        "title": "Konin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.083333,
+          51.766667
+        ]
+      },
+      "properties": {
+        "title": "Kalisz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.238333,
+          52.730833
+        ]
+      },
+      "properties": {
+        "title": "Gorzów Wielkopolski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.050788,
           49.825395
         ]
