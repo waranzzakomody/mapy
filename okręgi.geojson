@@ -267,6 +267,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.633333,
+          49.75
+        ]
+        },
+      "properties": {
+        "title": "Cieszyn",
+        "marker-color": "#AFEEEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.545,
+          50.098611
+        ]
+        },
+      "properties": {
+        "title": "Rybnik",
+        "marker-color": "#AFEEEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.083333,
           51.766667
         ]
