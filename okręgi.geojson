@@ -258,7 +258,8 @@
         ]
       },
       "properties": {
-        "title": "Konin"
+        "title": "Konin",
+        "marker-color": "#AFEEEE"
       }
     },
     {
@@ -271,7 +272,8 @@
         ]
       },
       "properties": {
-        "title": "Kalisz"
+        "title": "Kalisz",
+        "marker-color": "#AFEEEE"
       }
     },
     {
@@ -284,7 +286,8 @@
         ]
       },
       "properties": {
-        "title": "Gorzów Wielkopolski"
+        "title": "Gorzów Wielkopolski",
+        "marker-color": "#AFEEEE"
       }
     },
     {
